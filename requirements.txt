@@ -1,0 +1,13 @@
+torch
+torchvision
+ultralytics
+easyocr
+pyttsx3
+opencv-python
+numpy
+timm
+sounddevice
+ollama
+faster-whisper
+silero
+openwakeword
